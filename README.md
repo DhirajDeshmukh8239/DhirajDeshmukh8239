@@ -23,12 +23,12 @@ Hi, Dhiraj here
 ---
 
 ## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhiraj Deshmukh) 
 
-[![LinkedIn](https://www.linkedin.com/in/dhirajdeshmukh8239/)
 
 ---
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
