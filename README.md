@@ -21,14 +21,10 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
-## 🐍 Contribution Snake
-
-## 🐍 Contribution Snake  
-
-![GitHub Snake](https://raw.githubusercontent.com/DhirajDeshmukh8239/DhirajDeshmukh8239/output/snake.svg)
 
 
 
 
 
----
+
+
