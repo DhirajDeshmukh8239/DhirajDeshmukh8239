@@ -21,8 +21,6 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
-## Contribuion Graph
-
 ## 🐍 Contribution Snake
 
 ![GitHub Snake Light](https://github.com/DhirajDeshmukh8239/DhirajDeshmukh8239/blob/output/snake.svg#gh-light-mode-only)
