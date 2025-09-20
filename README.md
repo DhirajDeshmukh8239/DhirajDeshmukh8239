@@ -34,7 +34,7 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DhirajDeshmukh8239&theme=onedark)
+![DhirajDeshmukh8239's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhirajDeshmukh8239&bg_color=ffffff&title_color=007bff&icon_color=333333&text_color=333333)
 
 
 ---
