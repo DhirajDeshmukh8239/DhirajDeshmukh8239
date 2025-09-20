@@ -39,3 +39,8 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
+### 🏆 My GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DhirajDeshmukh8239&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+----
