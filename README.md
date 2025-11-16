@@ -20,6 +20,14 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
+## ⚡ Skills & Tools
+
+| Linux | AWS | Git | Docker | Kubernetes | Terraform | Jenkins | Datadog |
+|-------|-----|-----|---------|------------|------------|----------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="60"/> | <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Datadog_logo.svg" width="60"/> |
+
+---
+
 ## 🌱 Contribution Graph
 
 
