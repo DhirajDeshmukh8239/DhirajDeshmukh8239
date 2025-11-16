@@ -19,14 +19,21 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60"/> |
 
 ---
-
-## ⚡ Skills & Tools
+## ⚡ Skills & Tools  
 
 | Linux | AWS | Git | Docker | Kubernetes | Terraform | Jenkins | Datadog |
-|-------|-----|-----|---------|------------|------------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="60"/> | <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="60"/> | <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Datadog_logo.svg" width="60"/> |
+|--------|-----|-----|--------|-------------|------------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/> | 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/> | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/> | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60"/> | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60"/> | 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60"/> | 
+<img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Datadog_logo.svg" width="60"/> |
 
 ---
+
 
 ## 🌱 Contribution Graph
 
